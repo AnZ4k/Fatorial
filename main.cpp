@@ -4,7 +4,7 @@ using namespace std;
 
 int fatorial ( int x ); 
 
-int main ( )
+int main ( void )
 {
     int n, resultado;
 
